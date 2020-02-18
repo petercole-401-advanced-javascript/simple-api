@@ -1,5 +1,6 @@
 <!-- # LAB - Class xx -->
 # Simple API
+__Version 1.0.2__
 
 <!-- ## Project Name -->
 
@@ -7,7 +8,8 @@
 
 ### Links and Resources
 
-- [Submission PR](https://github.com/petercole-401-advanced-javascript/simple-api/pull/1)
+- [Submission PR](https://github.com/petercole-401-advanced-javascript/simple-api/pull/2)
+- [Swagger Docs](https://app.swaggerhub.com/apis/petercole3/simple-api/0.2)
 - [ci/cd](../master/.github/workflows/nodejs.yml) (GitHub Actions)
 <!-- - [Back-end Server URL](http://xyz.com) (when applicable) -->
 <!-- - [Front-end Application](http://xyz.com) (when applicable) -->
@@ -34,4 +36,4 @@
 
 #### UML
 <!-- Link to an image of the UML for your application and response to events -->
-- ![UML](../master/assets/simple-api-day1-UML.jpg)
+- ![UML](../master/assets/simple-api-day1-UML.jpg "UML")
