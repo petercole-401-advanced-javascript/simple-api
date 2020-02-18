@@ -27,7 +27,6 @@
     "express": "^4.17.1",
     "httpie": "^1.1.2",
     "jest": "^25.1.0",
-    "json-server": "^0.16.0",
     "supertest": "^4.0.2"
   }
 }
