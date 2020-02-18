@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll",
     "lint": "eslint **/*.js",
     "start": "node index.js"
   },
@@ -23,7 +24,10 @@
   "homepage": "https://github.com/petercole-401-advanced-javascript/simple-api#readme",
   "dependencies": {
     "eslint": "^6.8.0",
+    "express": "^4.17.1",
     "httpie": "^1.1.2",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "json-server": "^0.16.0",
+    "supertest": "^4.0.2"
   }
 }
