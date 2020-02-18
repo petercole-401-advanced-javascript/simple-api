@@ -1,0 +1,17 @@
+
+{
+  "categories": [
+    { "_id": 1, 
+      "name": "climbing", 
+      "display_name": "Climbing_Gear", 
+      "description": "products for climbing rock and ice"
+    }
+  ],
+  "products": [
+    { "_id": 1, 
+      "category": "climbing", 
+      "name": "axe",
+      "display_name": "Ice_Axe", 
+      "description": "spike shaft adze and pick tool designed for steep snow and ice" }
+  ]
+}
