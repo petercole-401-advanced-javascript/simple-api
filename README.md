@@ -1,4 +1,4 @@
-<!-- # LAB - Class 06 -->
+<!-- # LAB - Class xx -->
 # Simple API
 __Version 1.0.2__
 
