@@ -1,0 +1,22 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "making a simple api for CF401",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercole-401-advanced-javascript/simple-api.git"
+  },
+  "author": "Peter Cole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petercole-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/petercole-401-advanced-javascript/simple-api#readme"
+}
